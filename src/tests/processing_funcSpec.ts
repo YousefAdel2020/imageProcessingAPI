@@ -1,6 +1,7 @@
 import {transform} from '../processing_func';
 
 
+// testing of resizing function
 describe('test for processing function', () => {
 
     it('should be resolved  make transform function',async()=>{

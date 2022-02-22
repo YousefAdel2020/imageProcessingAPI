@@ -5,11 +5,6 @@ const port=3000;
 
 app.use('/',resize);
 
-// app.get('/',(req,res)=>{
-
-//     res.send('hello');
-// })
-
 
 
 
